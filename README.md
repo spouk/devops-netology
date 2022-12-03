@@ -11,4 +11,5 @@ terraform/.gitignore
 	+ файлы с консольным деревом инициализаций (.rc)
 
 added new string 
+added new string from pycharm (line1)
 
